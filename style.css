@@ -212,8 +212,8 @@ min-height: 280 px;
 }
 .litera
 {
-  width: 30px;
-  height: 30px;
+  width: 45px;
+  height: 45px;
   text-align: center;
   padding: 5px;
   margin: 5px;
@@ -221,6 +221,7 @@ min-height: 280 px;
   float: left;
   cursor: pointer;
   border-radius: 5px;
+  font-size: 25px
 
 }
 .litera:hover
